@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "FOSS-Pulchwok"
-  avatar           : "" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "A group of undergraduate students at Pulchowk Campus with great imagination."
   location         : "Lalitpur, Nepal"
   email            : 
