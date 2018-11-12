@@ -105,7 +105,7 @@ author:
   avatar           : "/images/logo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "A group of undergraduate students at Pulchowk Campus with great imagination."
   location         : "Lalitpur, Nepal"
-  email            : 
+  email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -288,11 +288,11 @@ defaults:
       comments: # true
       share: true
       related: true
-      
+
   # _pages
   - scope:
-	  path: ""
-	  type: pages
-	values:
+      path: ""
+      type: pages
+    values:
       layout: single
       auth_profile:true
