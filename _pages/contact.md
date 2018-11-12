@@ -1,5 +1,5 @@
 ---
 title: "Contact Us"
-permalink: /Contact Us/
+permalink: /contact/
 author_profile: true
 ---
