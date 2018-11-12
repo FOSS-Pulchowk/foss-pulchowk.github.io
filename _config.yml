@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "FOSS | Pulchowk 1"
+title                    : "FOSS | Pulchowk"
 title_separator          : "-"
 name                     : "FOSS-Pulchowk"
 description              : "Free or Open Source Software"
