@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "FOSS | Pulchowk"
 title_separator          : "-"
 name                     : "FOSS-Pulchowk"
 description              : "Free or Open Source Software"
@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "FOSS-Pulchwok"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/logo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "A group of undergraduate students at Pulchowk Campus with great imagination."
   location         : "Lalitpur, Nepal"
   email            : 
