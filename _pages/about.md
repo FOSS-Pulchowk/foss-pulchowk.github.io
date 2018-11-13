@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+The community helps you to pace your personality development by providing various knowledge by the use of Free and Open Source Softwares (FOSSs).
