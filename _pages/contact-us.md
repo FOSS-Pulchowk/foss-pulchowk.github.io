@@ -23,3 +23,5 @@ Get in touch personally with some of our active members:
 | Name           | Email                                    | Phone             |
 | -------------- | ---------------------------------------- | ----------------- |
 | Rabin Adhikari | <rabin.adk1@gmail.com>                   | +9779844666021    |
+| Samip Poudel   | <champsamip11@gmail.com>                 | +9779867753102    |
+| Safal Thapaliya| <safalthapaliya@gmail.com>               | +9779880221111    |
