@@ -287,3 +287,5 @@ defaults:
       layout: single
       classes: wide
       author_profile: true
+
+theme: jekyll-theme-cayman
