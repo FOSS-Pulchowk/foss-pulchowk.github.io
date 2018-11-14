@@ -15,7 +15,7 @@ name                     : "FOSS Pulchowk"
 description              : "Free and Open Source Software"
 logo                     : /assets/images/foss-pulchowk.png
 email                    : "pulfoss@gmail.com"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://foss-pulchowk.githubio/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "FOSS-Pulchowk/foss-pulchowk.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
