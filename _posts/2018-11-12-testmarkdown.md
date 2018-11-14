@@ -1,7 +1,7 @@
 ---
 title: "Test Post Working"
 date: 2018-11-12
-tags: [markdown, test, working]
+tags: markdown test working
 ---
 ---
 __Advertisement :)__
