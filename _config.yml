@@ -278,7 +278,8 @@ defaults:
       share: true
       related: true
 
-  # _pages
+  # _pagesAnnouncements
+
   - scope:
       path: ""
       type: pages
