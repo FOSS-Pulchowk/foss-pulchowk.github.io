@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Contact Us
 permalink: /contact-us/
 ---
