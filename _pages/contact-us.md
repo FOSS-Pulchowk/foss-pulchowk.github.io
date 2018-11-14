@@ -4,4 +4,22 @@ title: Contact Us
 permalink: /contact-us/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+To contact us,
+
+You can e-mail us at: <pulfoss@gmail.com>
+
+or,
+
+You can pay us a visit at:
+
+Pulchowk Campus,
+Institute of Engineering,
+Lalitpur, Nepal
+
+or,
+
+Get in touch personally with some of our active members:
+
+| Name           | Email                                    | Phone             |
+| -------------- | ---------------------------------------- | ----------------- |
+| Rabin Adhikari | rabin.adk1@gmail.com                     | +9779844666021    |
