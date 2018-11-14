@@ -4,7 +4,7 @@ title: Contact Us
 permalink: /contact-us/
 ---
 
-To contact us,
+
 
 You can e-mail us at: <pulfoss@gmail.com>
 
@@ -22,4 +22,4 @@ Get in touch personally with some of our active members:
 
 | Name           | Email                                    | Phone             |
 | -------------- | ---------------------------------------- | ----------------- |
-| Rabin Adhikari | rabin.adk1@gmail.com                     | +9779844666021    |
+| Rabin Adhikari | <rabin.adk1@gmail.com>                   | +9779844666021    |
