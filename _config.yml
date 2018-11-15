@@ -105,9 +105,9 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:pulfoss@gmail.com
-    - label: "Website"
+    - label: "Privacy Policy"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://www.freeprivacypolicy.com/privacy/view/cb5434def4fa86523fa4ba0c87566962"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
