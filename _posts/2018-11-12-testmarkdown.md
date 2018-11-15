@@ -2,6 +2,7 @@
 title: "Test Post Working"
 date: 2018-11-12
 tags: [markdown, test, working]
+author: Samip Poudel
 ---
 ---
 __Advertisement :)__

@@ -1,0 +1,14 @@
+Samip Poudel:
+  name        : "Samip Poudel"
+  bio         : "K cha topper test!"
+  avatar      : 
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:champsamip11@gmail.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/extravagantman"
