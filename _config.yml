@@ -8,7 +8,7 @@
 minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en"
+locale                   : "en_us"
 title                    : "FOSS PULCHOWK"
 title_separator          : "-"
 name                     : "FOSS Pulchowk"
@@ -66,7 +66,7 @@ google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
-google_site_verification :
+google_site_verification : # not needed, if verified from google analytics
 bing_site_verification   : 886676C484E688CBB4D7DCE5238F17DF
 yandex_site_verification :
 naver_site_verification  :
@@ -75,9 +75,9 @@ naver_site_verification  :
 twitter:
   username               :
 facebook:
-  username               :
-  app_id                 :
-  publisher              :
+  username               : # https://www.facebook.com/rabin.adk1
+  app_id                 : 2038799749533583
+  publisher              : # A Facebook page URL or ID of the publishing entity
 og_image                 : /assets/images/foss-pulchowk.png # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
