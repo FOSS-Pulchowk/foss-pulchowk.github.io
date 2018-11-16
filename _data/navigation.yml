@@ -4,7 +4,7 @@ main:
       url: /about
     - title: "Contact Us"
       url: /contact-us
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+    - title: "Contibuting Guidelines"
+      url: /guidelines
   # - title: "Sitemap"
   #   url: /sitemap/
