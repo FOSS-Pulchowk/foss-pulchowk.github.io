@@ -99,7 +99,7 @@ author:
   name             : "FOSS Pulchowk"
   avatar           : /assets/images/foss-pulchowk.png   # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "A community of FOSS enthusiasts at Pulchowk Campus who are always hungry for knowledge and skills."
-  location         : "Lalitpur, Nepal"
+  location         : "Pulchowk Campus, Lalitpur, Nepal"
   email            : "pulfoss@gmail.com"
   links:
     - label: "Email"
