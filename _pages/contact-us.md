@@ -1,23 +1,19 @@
 ---
 title: Contact Us
-permalink: /contact-us
+permalink: /contact-us/
 ---
 
 
 
 You can e-mail us at: <pulfoss@gmail.com>
 
-or,
-
 You can pay us a visit at:
 
-Pulchowk Campus,
+_Pulchowk Campus,
 Institute of Engineering,
-Lalitpur, Nepal
+Lalitpur, Nepal_
 
-or,
-
-Get in touch personally with some of our active members:
+You can also get in touch personally with some of our active members:
 
 | Name             | Email                                    | Phone             |
 | --------------   | ---------------------------------------- | ----------------- |
