@@ -3,8 +3,6 @@ title: Contact Us
 permalink: /contact-us/
 ---
 
-
-
 You can e-mail us at: <pulfoss@gmail.com>
 
 You can pay us a visit at:
