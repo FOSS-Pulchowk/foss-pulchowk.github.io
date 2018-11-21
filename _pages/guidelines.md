@@ -3,14 +3,13 @@ title: Guidelines for Contributors
 permalink: /guidelines/
 ---
 
-## General Guidelines
+<h2 align="center"> General Guidelines </h2>
 
 ### Please follow these general guidelines to keep the repo clean and manageable
 
 *   Always be clear what you are doing
 *   Check your changes (commit) before pushing
-*   Don't ever force push that will create the chaos
-    *   i.e., never use `git push origin master --force` instead first `git pull origin master` and then after `git push origin master`
+*   Don't ever force push that will create the chaos i.e., never use `git push origin master --force` instead first `git pull origin master` and then after `git push origin master`
 *   Commit short description
     *   clearly mention summary of changes done
     *   Limit your description to 20-30 characters (**not** words)
@@ -21,11 +20,11 @@ permalink: /guidelines/
 *   Try to bundle you commit as the feature or bug fixes
 *   If you aren't sure how to bundle your changes (commits). Push it into new branch and create issue for some one to look over it!
 
-## My Repo
+<h2 align="center"> My Repo </h2>
 
 ### Please follow these guidelines to maintain the status of your favorite repo
 
-*   Always create a clear, unambiguous and easily understandable README file containing:
+*   Always create a clear, unambiguous and easily understandable `README.md` file containing:
     *   Project Title
     *   Project Statement
     *   Project features
