@@ -1,13 +1,13 @@
-Samip Poudel:
-  name             : "Test user"
+Safal Thapaliya:
+  name             : "Safla Thapaliya"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Bio Here"
-  location         : "Lalitpur, Nepal"
+  bio              : "Second year Undergraduate Computer Engineering Student at Pulchowk Campus"
+  location         : "Kathmandu, Nepal"
   email            : "emailhere@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:pulfoss@gmail.com
+      url: mailto:safalthapaliya@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -16,10 +16,10 @@ Samip Poudel:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://facebook.com/safal.thapaliya.19"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/git-un-here"
+      url: "https://github.com/DajuKada"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
