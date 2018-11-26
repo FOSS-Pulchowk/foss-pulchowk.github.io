@@ -4,9 +4,6 @@ date: 2018-11-26
 tags: event-announcement
 author: Safal Thapaliya
 ---
-
-# Introduction to programming using Scratch
-
 _Programming the fun way_
 
 Have you ever wondered how you get those recommended videos in YouTube or how the &quot;woman voice&quot; inside your mobile phone understands what you are saying or why you see new posts every-time you reload your Facebook feed? That&#39;s because someone wrote certain lines of code to perform those specific tasks. That someone wrote a program so that whenever you say &quot;Ok Google!&quot;, you hear a voice, &quot;Hi, how may I help you?&quot;, as if it could solve all the problems in your life.
