@@ -3,7 +3,6 @@ Safal Thapaliya:
   avatar           : "/assets/images/safal.jpg"
   bio              : "Second year Undergraduate Computer Engineering Student at Pulchowk Campus"
   location         : "Kathmandu, Nepal"
-  email            : "emailhere@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
