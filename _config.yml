@@ -84,7 +84,7 @@ og_image                 : /assets/images/foss-pulchowk.png # Open Graph/Twitter
 social:
   type                   : Organization # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  links                  : # An array of links to social media profiles
 
 # Analytics
 analytics:
