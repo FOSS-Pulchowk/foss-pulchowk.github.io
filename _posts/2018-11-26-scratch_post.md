@@ -31,5 +31,5 @@ Free or Open Source Software( FOSS ), Pulchowk Campus is a community that aims t
 
 **Disclaimer**: Please note that we target students who have no programming background. To participate in workshop we are conducting on December 1, 2018 please fill form we have published at [link to form](https://goo.gl/forms/Z7ZYaPguvCLjPQSr2).
 
-The detailed installation guide is provided [here](https://drive.google.com/open?id=1sxwRInQn-ZYHPHq00vTGlqTeedpnGSeo).
+The detailed installation guide is provided [here](https://drive.google.com/open?id=1hTWHqe7jS_kaSevcU984q5UupwndScg5).
 </div>
