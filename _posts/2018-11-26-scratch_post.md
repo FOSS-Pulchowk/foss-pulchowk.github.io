@@ -3,6 +3,8 @@ title: "Introduction to Programming using Scratch"
 date: 2018-11-26
 tags: event-announcement
 author: Safal Thapaliya
+header:
+    teaser: /assets/images/scratch-announcement/scratch.jpg
 ---
 **_Programming the fun way_**
 
