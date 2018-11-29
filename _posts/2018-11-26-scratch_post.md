@@ -30,4 +30,6 @@ It might be quite hard to see how making a dog bark relates to a program that ca
 Free or Open Source Software ( FOSS ), Pulchowk Campus is a community that aims to flourish concept of free and open source movement in the campus by strengthening its root through active participation of technological enthusiasts. FOSS Pulchowk community is aiming to give a brief introduction to the concepts and essentials of programming. So, lets embark on this amazing journey to the world of computer programming where counting begins at 0.
 
 **Disclaimer**: Please note that we target students who have no programming background. To participate in workshop we are conducting on December 1, 2018 please fill form we have published at [link to form](https://goo.gl/forms/Z7ZYaPguvCLjPQSr2).
+
+The detailed installation guide is provided [here](https://drive.google.com/open?id=1hTWHqe7jS_kaSevcU984q5UupwndScg5).
 </div>
