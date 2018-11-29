@@ -14,7 +14,7 @@ Have you ever wondered how you get those recommended videos in YouTube or how th
 <img style="float: right; padding-left: 5px;" src="/assets/images/scratch-announcement/rocket.jpg">
 
 
-So what actually is "Programming" ? Simply, it is the process of telling a computer how to perform a task. It is the art of translating a set of ideas into a program – a list of instructions a computer can follow. You can use programming for almost everything. Humans made it to the moon because someone at NASA wrote a program that can perform huge amounts of calculations in a very small interval of time. Program control robots, self-driving cars, planes, the phone you are holding right now or the computer you are using. Programs help researchers to solve complex problems by providing a huge amount of related data. Well it doesn't stop there. Programs can make some really fun games like temple run, candy crush or that classic snake game. Programs are behind the apps and websites you use and visit everyday. All those awesome visual effects you watched in Avengers or Interstellar was made using some program. _Cool, isn't it?_
+So what actually is "Programming"? Simply, it is the process of telling a computer how to perform a task. It is the art of translating a set of ideas into a program – a list of instructions a computer can follow. You can use programming for almost everything. Humans made it to the moon because someone at NASA wrote a program that can perform huge amounts of calculations in a very small interval of time. Program control robots, self-driving cars, planes, the phone you are holding right now or the computer you are using. Programs help researchers to solve complex problems by providing a huge amount of related data. Well it doesn't stop there. Programs can make some really fun games like temple run, candy crush or that classic snake game. Programs are behind the apps and websites you use and visit everyday. All those awesome visual effects you watched in Avengers or Interstellar was made using some program. _Cool, isn't it?_
 
 <img style="float: right; padding-left: 5px;" src="/assets/images/scratch-announcement/scratch.jpg">
 
@@ -29,7 +29,7 @@ It might be quite hard to see how making a dog bark relates to a program that ca
 
 Free or Open Source Software ( FOSS ), Pulchowk Campus is a community that aims to flourish concept of free and open source movement in the campus by strengthening its root through active participation of technological enthusiasts. FOSS Pulchowk community is aiming to give a brief introduction to the concepts and essentials of programming. So, lets embark on this amazing journey to the world of computer programming where counting begins at 0.
 
-**Disclaimer**: Please note that we target students who have no programming background. To participate in workshop we are conducting on December 1, 2018 please fill form we have published at [link to form](https://goo.gl/forms/Z7ZYaPguvCLjPQSr2).
+**Disclaimer**: _Please note that we target students who have no programming background._ To participate in workshop we are conducting on December 1, 2018 please fill form we have published at [link to form](https://goo.gl/forms/Z7ZYaPguvCLjPQSr2).
 
 The detailed installation guide is provided [here](https://drive.google.com/open?id=1hTWHqe7jS_kaSevcU984q5UupwndScg5).
 </div>
