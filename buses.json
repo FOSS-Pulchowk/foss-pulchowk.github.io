@@ -1,7 +1,8 @@
 {
 "BusSource":"Kathmandu",
 "BusDestination":"Nepalgunj",
-"BusNumber":"Ba1Kha 5228"
+"BusNumber":"Ba1Kha 5228",
+"Seats":["a1","a2","a3","a4"]
 }
 
 
