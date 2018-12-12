@@ -1,8 +1,8 @@
-{Company1:[Bus1:{
+{Company1:{Bus1:{
 BusSource:"Kathmandu",
 BusDestination:"Nepalgunj",
 BusNumber:"Ba1Kha 5228",
 BusSeats:[[A1,0],[a2,0],[a3,0],[a4,5]]
-},],
+},},
 }
 
