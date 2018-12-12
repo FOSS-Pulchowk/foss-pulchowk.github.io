@@ -1,8 +1,27 @@
 {
-"BusSource":"Kathmandu",
-"BusDestination":"Nepalgunj",
-"BusNumber":"Ba1Kha 5228",
-"Seats":["a1","a2","a3","a4"]
+  "CompanyName1":[
+  {
+    "BusSource":"Kathmandu",
+    "BusDestination":"Nepalgunj",
+    "BusNumber":"Ba1Kha 5228",
+    "Seats":["a1","a2","a3","a4"]
+},
+  {
+    "BusSource":"Kathmandu",
+    "BusDestination":"Butwal",
+    "BusNumber":"Ba1Kha 5228",
+    "Seats":["a1","a2","a3","a4"]
+}, {
+    "BusSource":"Kathmandu",
+    "BusDestination":"Chitwan",
+    "BusNumber":"Ba1Kha 5228",
+    "Seats":["a1","a2","a3","a4"]
+}, {
+    "BusSource":"Kathmandu",
+    "BusDestination":"Hetauda",
+    "BusNumber":"Ba1Kha 5228",
+    "Seats":["a1","a2","a3","a4"]
+} ]
 }
 
 
