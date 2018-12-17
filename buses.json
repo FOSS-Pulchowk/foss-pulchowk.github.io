@@ -1,27 +1,540 @@
 {
-  "CompanyName1":[
-  {
-    "BusSource":"Kathmandu",
-    "BusDestination":"Nepalgunj",
-    "BusNumber":"Ba1Kha 5228",
-    "Seats":["a1","a2","a3","a4"]
-},
-  {
-    "BusSource":"Kathmandu",
-    "BusDestination":"Butwal",
-    "BusNumber":"Ba1Kha 5228",
-    "Seats":["a1","a2","a3","a4"]
-}, {
-    "BusSource":"Kathmandu",
-    "BusDestination":"Chitwan",
-    "BusNumber":"Ba1Kha 5228",
-    "Seats":["a1","a2","a3","a4"]
-}, {
-    "BusSource":"Kathmandu",
-    "BusDestination":"Hetauda",
-    "BusNumber":"Ba1Kha 5228",
-    "Seats":["a1","a2","a3","a4"]
-} ]
+  "Counter1": [
+    {
+      "Seats": [
+        [
+          {
+            "a1": {
+              "isPacked": "false"
+            }
+          },
+          {
+            "a2": {
+              "isPacked": "false"
+            }
+          },
+          {
+            "a3": {
+              "isPacked": "true"
+            }
+          },
+          {
+            "a4": {
+              "isPacked": "false"
+            }
+          },
+          {
+            "a5": {
+              "isPacked": "false"
+            }
+          },
+          {
+            "a6": {
+              "isPacked": "true"
+            }
+          },
+          {
+            "a7": {
+              "isPacked": "true"
+            }
+          },
+          {
+            "a8": {
+              "isPacked": "false"
+            }
+          },
+          {
+            "a9": {
+              "isPacked": "true"
+            }
+          },
+          {
+            "a10": {
+              "isPacked": "false"
+            }
+          },
+          {
+            "a11": {
+              "isPacked": "true"
+            }
+          },
+          {
+            "a12": {
+              "isPacked": "false"
+            }
+          }
+        ],
+        [
+          [
+            {
+              "b1": {
+                "isPacked": "false"
+              }
+            },
+            {
+              "b2": {
+                "isPacked": "true"
+              }
+            },
+            {
+              "b3": {
+                "isPacked": "true"
+              }
+            },
+            {
+              "b4": {
+                "isPacked": "false"
+              }
+            },
+            {
+              "b5": {
+                "isPacked": "true"
+              }
+            },
+            {
+              "b6": {
+                "isPacked": "false"
+              }
+            },
+            {
+              "b7": {
+                "isPacked": "false"
+              }
+            },
+            {
+              "b8": {
+                "isPacked": "false"
+              }
+            },
+            {
+              "b9": {
+                "isPacked": "true"
+              }
+            },
+            {
+              "b10": {
+                "isPacked": "true"
+              }
+            },
+            {
+              "b11": {
+                "isPacked": "false"
+              }
+            },
+            {
+              "b12": {
+                "isPacked": "false"
+              }
+            }
+          ]
+        ]
+      ],
+      "BusNumber": "Ba1Kha 5215",
+      "BusDestination": "Nepalgunj",
+      "BusSource": "Kathmandu",
+      "DepartureTime":"5:30"
+    },
+    {
+      "Seats": [
+        [
+          {
+            "a1": {
+              "isPacked": "true"
+            }
+          },
+          {
+            "a2": {
+              "isPacked": "false"
+            }
+          },
+          {
+            "a3": {
+              "isPacked": "false"
+            }
+          },
+          {
+            "a4": {
+              "isPacked": "false"
+            }
+          },
+          {
+            "a5": {
+              "isPacked": "false"
+            }
+          },
+          {
+            "a6": {
+              "isPacked": "false"
+            }
+          },
+          {
+            "a7": {
+              "isPacked": "true"
+            }
+          },
+          {
+            "a8": {
+              "isPacked": "true"
+            }
+          },
+          {
+            "a9": {
+              "isPacked": "true"
+            }
+          },
+          {
+            "a10": {
+              "isPacked": "true"
+            }
+          },
+          {
+            "a11": {
+              "isPacked": "true"
+            }
+          },
+          {
+            "a12": {
+              "isPacked": "true"
+            }
+          }
+        ],
+        [
+          [
+            {
+              "b1": {
+                "isPacked": "false"
+              }
+            },
+            {
+              "b2": {
+                "isPacked": "false"
+              }
+            },
+            {
+              "b3": {
+                "isPacked": "true"
+              }
+            },
+            {
+              "b4": {
+                "isPacked": "true"
+              }
+            },
+            {
+              "b5": {
+                "isPacked": "false"
+              }
+            },
+            {
+              "b6": {
+                "isPacked": "false"
+              }
+            },
+            {
+              "b7": {
+                "isPacked": "true"
+              }
+            },
+            {
+              "b8": {
+                "isPacked": "true"
+              }
+            },
+            {
+              "b9": {
+                "isPacked": "true"
+              }
+            },
+            {
+              "b10": {
+                "isPacked": "false"
+              }
+            },
+            {
+              "b11": {
+                "isPacked": "false"
+              }
+            },
+            {
+              "b12": {
+                "isPacked": "false"
+              }
+            }
+          ]
+        ]
+      ],
+      "BusNumber": "Ba1Ka 3214",
+      "BusDestination": "Butwal",
+      "BusSource": "Kathmandu",
+      "DepartureTime":"6:30"
+    },
+    {
+      "Seats": [
+        [
+          {
+            "a1": {
+              "isPacked": "true"
+            }
+          },
+          {
+            "a2": {
+              "isPacked": "true"
+            }
+          },
+          {
+            "a3": {
+              "isPacked": "false"
+            }
+          },
+          {
+            "a4": {
+              "isPacked": "false"
+            }
+          },
+          {
+            "a5": {
+              "isPacked": "false"
+            }
+          },
+          {
+            "a6": {
+              "isPacked": "false"
+            }
+          },
+          {
+            "a7": {
+              "isPacked": "false"
+            }
+          },
+          {
+            "a8": {
+              "isPacked": "true"
+            }
+          },
+          {
+            "a9": {
+              "isPacked": "true"
+            }
+          },
+          {
+            "a10": {
+              "isPacked": "true"
+            }
+          },
+          {
+            "a11": {
+              "isPacked": "false"
+            }
+          },
+          {
+            "a12": {
+              "isPacked": "false"
+            }
+          }
+        ],
+        [
+          [
+            {
+              "b1": {
+                "isPacked": "false"
+              }
+            },
+            {
+              "b2": {
+                "isPacked": "true"
+              }
+            },
+            {
+              "b3": {
+                "isPacked": "true"
+              }
+            },
+            {
+              "b4": {
+                "isPacked": "false"
+              }
+            },
+            {
+              "b5": {
+                "isPacked": "false"
+              }
+            },
+            {
+              "b6": {
+                "isPacked": "false"
+              }
+            },
+            {
+              "b7": {
+                "isPacked": "true"
+              }
+            },
+            {
+              "b8": {
+                "isPacked": "true"
+              }
+            },
+            {
+              "b9": {
+                "isPacked": "true"
+              }
+            },
+            {
+              "b10": {
+                "isPacked": "false"
+              }
+            },
+            {
+              "b11": {
+                "isPacked": "false"
+              }
+            },
+            {
+              "b12": {
+                "isPacked": "true"
+              }
+            }
+          ]
+        ]
+      ],
+      "BusNumber": "Na5Pa 2319",
+      "BusDestination": "Chitwan",
+      "BusSource": "Kathmandu",
+      "DepartureTime":"7:30"
+    },
+    {
+      "Seats": [
+        [
+          {
+            "a1": {
+              "isPacked": "true"
+            }
+          },
+          {
+            "a2": {
+              "isPacked": "true"
+            }
+          },
+          {
+            "a3": {
+              "isPacked": "false"
+            }
+          },
+          {
+            "a4": {
+              "isPacked": "false"
+            }
+          },
+          {
+            "a5": {
+              "isPacked": "false"
+            }
+          },
+          {
+            "a6": {
+              "isPacked": "false"
+            }
+          },
+          {
+            "a7": {
+              "isPacked": "true"
+            }
+          },
+          {
+            "a8": {
+              "isPacked": "true"
+            }
+          },
+          {
+            "a9": {
+              "isPacked": "true"
+            }
+          },
+          {
+            "a10": {
+              "isPacked": "false"
+            }
+          },
+          {
+            "a11": {
+              "isPacked": "false"
+            }
+          },
+          {
+            "a12": {
+              "isPacked": "false"
+            }
+          }
+        ],
+        [
+          [
+            {
+              "b1": {
+                "isPacked": "true"
+              }
+            },
+            {
+              "b2": {
+                "isPacked": "true"
+              }
+            },
+            {
+              "b3": {
+                "isPacked": "true"
+              }
+            },
+            {
+              "b4": {
+                "isPacked": "true"
+              }
+            },
+            {
+              "b5": {
+                "isPacked": "false"
+              }
+            },
+            {
+              "b6": {
+                "isPacked": "false"
+              }
+            },
+            {
+              "b7": {
+                "isPacked": "false"
+              }
+            },
+            {
+              "b8": {
+                "isPacked": "false"
+              }
+            },
+            {
+              "b9": {
+                "isPacked": "false"
+              }
+            },
+            {
+              "b10": {
+                "isPacked": "false"
+              }
+            },
+            {
+              "b11": {
+                "isPacked": "false"
+              }
+            },
+            {
+              "b12": {
+                "isPacked": "true"
+              }
+            }
+          ]
+        ]
+      ],
+      "BusNumber": "Na1Pa 5538",
+      "BusDestination": "Hetauda",
+      "BusSource": "Kathmandu",
+      "DepartureTime":"4:30"
+    }
+  ]
 }
-
-
