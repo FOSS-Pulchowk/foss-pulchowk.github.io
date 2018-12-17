@@ -65,7 +65,6 @@
           }
         ],
         [
-          [
             {
               "b1": {
                 "isPacked": "false"
@@ -127,7 +126,6 @@
               }
             }
           ]
-        ]
       ],
       "BusNumber": "Ba1Kha 5215",
       "BusDestination": "Nepalgunj",
@@ -139,7 +137,7 @@
         [
           {
             "a1": {
-              "isPacked": "true"
+              "isPacked": "false"
             }
           },
           {
@@ -149,7 +147,7 @@
           },
           {
             "a3": {
-              "isPacked": "false"
+              "isPacked": "true"
             }
           },
           {
@@ -164,7 +162,7 @@
           },
           {
             "a6": {
-              "isPacked": "false"
+              "isPacked": "true"
             }
           },
           {
@@ -174,7 +172,7 @@
           },
           {
             "a8": {
-              "isPacked": "true"
+              "isPacked": "false"
             }
           },
           {
@@ -184,7 +182,7 @@
           },
           {
             "a10": {
-              "isPacked": "true"
+              "isPacked": "false"
             }
           },
           {
@@ -194,12 +192,11 @@
           },
           {
             "a12": {
-              "isPacked": "true"
+              "isPacked": "false"
             }
           }
         ],
         [
-          [
             {
               "b1": {
                 "isPacked": "false"
@@ -207,7 +204,7 @@
             },
             {
               "b2": {
-                "isPacked": "false"
+                "isPacked": "true"
               }
             },
             {
@@ -217,12 +214,12 @@
             },
             {
               "b4": {
-                "isPacked": "true"
+                "isPacked": "false"
               }
             },
             {
               "b5": {
-                "isPacked": "false"
+                "isPacked": "true"
               }
             },
             {
@@ -232,12 +229,12 @@
             },
             {
               "b7": {
-                "isPacked": "true"
+                "isPacked": "false"
               }
             },
             {
               "b8": {
-                "isPacked": "true"
+                "isPacked": "false"
               }
             },
             {
@@ -247,7 +244,7 @@
             },
             {
               "b10": {
-                "isPacked": "false"
+                "isPacked": "true"
               }
             },
             {
@@ -261,7 +258,6 @@
               }
             }
           ]
-        ]
       ],
       "BusNumber": "Ba1Ka 3214",
       "BusDestination": "Butwal",
@@ -273,17 +269,17 @@
         [
           {
             "a1": {
-              "isPacked": "true"
+              "isPacked": "false"
             }
           },
           {
             "a2": {
-              "isPacked": "true"
+              "isPacked": "false"
             }
           },
           {
             "a3": {
-              "isPacked": "false"
+              "isPacked": "true"
             }
           },
           {
@@ -298,17 +294,17 @@
           },
           {
             "a6": {
-              "isPacked": "false"
+              "isPacked": "true"
             }
           },
           {
             "a7": {
-              "isPacked": "false"
+              "isPacked": "true"
             }
           },
           {
             "a8": {
-              "isPacked": "true"
+              "isPacked": "false"
             }
           },
           {
@@ -318,12 +314,12 @@
           },
           {
             "a10": {
-              "isPacked": "true"
+              "isPacked": "false"
             }
           },
           {
             "a11": {
-              "isPacked": "false"
+              "isPacked": "true"
             }
           },
           {
@@ -333,7 +329,6 @@
           }
         ],
         [
-          [
             {
               "b1": {
                 "isPacked": "false"
@@ -356,7 +351,7 @@
             },
             {
               "b5": {
-                "isPacked": "false"
+                "isPacked": "true"
               }
             },
             {
@@ -366,12 +361,12 @@
             },
             {
               "b7": {
-                "isPacked": "true"
+                "isPacked": "false"
               }
             },
             {
               "b8": {
-                "isPacked": "true"
+                "isPacked": "false"
               }
             },
             {
@@ -381,7 +376,7 @@
             },
             {
               "b10": {
-                "isPacked": "false"
+                "isPacked": "true"
               }
             },
             {
@@ -391,11 +386,10 @@
             },
             {
               "b12": {
-                "isPacked": "true"
+                "isPacked": "false"
               }
             }
           ]
-        ]
       ],
       "BusNumber": "Na5Pa 2319",
       "BusDestination": "Chitwan",
@@ -407,17 +401,17 @@
         [
           {
             "a1": {
-              "isPacked": "true"
+              "isPacked": "false"
             }
           },
           {
             "a2": {
-              "isPacked": "true"
+              "isPacked": "false"
             }
           },
           {
             "a3": {
-              "isPacked": "false"
+              "isPacked": "true"
             }
           },
           {
@@ -432,7 +426,7 @@
           },
           {
             "a6": {
-              "isPacked": "false"
+              "isPacked": "true"
             }
           },
           {
@@ -442,7 +436,7 @@
           },
           {
             "a8": {
-              "isPacked": "true"
+              "isPacked": "false"
             }
           },
           {
@@ -457,7 +451,7 @@
           },
           {
             "a11": {
-              "isPacked": "false"
+              "isPacked": "true"
             }
           },
           {
@@ -467,10 +461,9 @@
           }
         ],
         [
-          [
             {
               "b1": {
-                "isPacked": "true"
+                "isPacked": "false"
               }
             },
             {
@@ -485,12 +478,12 @@
             },
             {
               "b4": {
-                "isPacked": "true"
+                "isPacked": "false"
               }
             },
             {
               "b5": {
-                "isPacked": "false"
+                "isPacked": "true"
               }
             },
             {
@@ -510,12 +503,12 @@
             },
             {
               "b9": {
-                "isPacked": "false"
+                "isPacked": "true"
               }
             },
             {
               "b10": {
-                "isPacked": "false"
+                "isPacked": "true"
               }
             },
             {
@@ -525,11 +518,10 @@
             },
             {
               "b12": {
-                "isPacked": "true"
+                "isPacked": "false"
               }
             }
           ]
-        ]
       ],
       "BusNumber": "Na1Pa 5538",
       "BusDestination": "Hetauda",
