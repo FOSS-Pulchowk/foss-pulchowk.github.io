@@ -5,7 +5,7 @@
         [
           {
             "a1": {
-              "isPacked": "false"
+              "isPacked": "true"
             }
           },
           {
@@ -30,7 +30,7 @@
           },
           {
             "a6": {
-              "isPacked": "true"
+              "isPacked": "false"
             }
           },
           {
@@ -77,7 +77,7 @@
             },
             {
               "b3": {
-                "isPacked": "true"
+                "isPacked": "false"
               }
             },
             {
@@ -87,7 +87,7 @@
             },
             {
               "b5": {
-                "isPacked": "true"
+                "isPacked": "false"
               }
             },
             {
@@ -107,7 +107,7 @@
             },
             {
               "b9": {
-                "isPacked": "true"
+                "isPacked": "false"
               }
             },
             {
@@ -142,7 +142,7 @@
           },
           {
             "a2": {
-              "isPacked": "false"
+              "isPacked": "true"
             }
           },
           {
@@ -157,17 +157,17 @@
           },
           {
             "a5": {
-              "isPacked": "false"
+              "isPacked": "true"
             }
           },
           {
             "a6": {
-              "isPacked": "true"
+              "isPacked": "false"
             }
           },
           {
             "a7": {
-              "isPacked": "true"
+              "isPacked": "false"
             }
           },
           {
@@ -177,7 +177,7 @@
           },
           {
             "a9": {
-              "isPacked": "true"
+              "isPacked": "false"
             }
           },
           {
@@ -187,12 +187,12 @@
           },
           {
             "a11": {
-              "isPacked": "true"
+              "isPacked": "false"
             }
           },
           {
             "a12": {
-              "isPacked": "false"
+              "isPacked": "true"
             }
           }
         ],
@@ -239,17 +239,17 @@
             },
             {
               "b9": {
-                "isPacked": "true"
+                "isPacked": "false"
               }
             },
             {
               "b10": {
-                "isPacked": "true"
+                "isPacked": "false"
               }
             },
             {
               "b11": {
-                "isPacked": "false"
+                "isPacked": "true"
               }
             },
             {
@@ -289,12 +289,12 @@
           },
           {
             "a5": {
-              "isPacked": "false"
+              "isPacked": "true"
             }
           },
           {
             "a6": {
-              "isPacked": "true"
+              "isPacked": "false"
             }
           },
           {
@@ -304,12 +304,12 @@
           },
           {
             "a8": {
-              "isPacked": "false"
+              "isPacked": "true"
             }
           },
           {
             "a9": {
-              "isPacked": "true"
+              "isPacked": "false"
             }
           },
           {
@@ -351,7 +351,7 @@
             },
             {
               "b5": {
-                "isPacked": "true"
+                "isPacked": "false"
               }
             },
             {
@@ -366,22 +366,22 @@
             },
             {
               "b8": {
-                "isPacked": "false"
+                "isPacked": "true"
               }
             },
             {
               "b9": {
-                "isPacked": "true"
+                "isPacked": "false"
               }
             },
             {
               "b10": {
-                "isPacked": "true"
+                "isPacked": "false"
               }
             },
             {
               "b11": {
-                "isPacked": "false"
+                "isPacked": "true"
               }
             },
             {
@@ -411,7 +411,7 @@
           },
           {
             "a3": {
-              "isPacked": "true"
+              "isPacked": "false"
             }
           },
           {
@@ -426,7 +426,7 @@
           },
           {
             "a6": {
-              "isPacked": "true"
+              "isPacked": "false"
             }
           },
           {
@@ -441,17 +441,17 @@
           },
           {
             "a9": {
-              "isPacked": "true"
-            }
-          },
-          {
-            "a10": {
               "isPacked": "false"
             }
           },
           {
-            "a11": {
+            "a10": {
               "isPacked": "true"
+            }
+          },
+          {
+            "a11": {
+              "isPacked": "false"
             }
           },
           {
@@ -503,22 +503,22 @@
             },
             {
               "b9": {
-                "isPacked": "true"
+                "isPacked": "false"
               }
             },
             {
               "b10": {
-                "isPacked": "true"
+                "isPacked": "false"
               }
             },
             {
               "b11": {
-                "isPacked": "false"
+                "isPacked": "true"
               }
             },
             {
               "b12": {
-                "isPacked": "false"
+                "isPacked": "true"
               }
             }
           ]
