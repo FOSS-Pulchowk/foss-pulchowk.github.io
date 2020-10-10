@@ -19,7 +19,7 @@
   "devDependencies": {
     "npm-run-all": "^1.7.0",
     "onchange": "^2.2.0",
-    "uglify-js": "^2.6.1"
+    "uglify-js": "^3.11.1"
   },
   "scripts": {
     "uglify":
